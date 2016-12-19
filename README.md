@@ -1,2 +1,2 @@
 # coursera-angular-course
-Coursera SPA AngularJR 1 course
+Coursera SPA AngularJS 1 course
